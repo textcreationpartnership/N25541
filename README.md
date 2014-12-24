@@ -1,0 +1,503 @@
+#The Humming bird; or, New American songster; with modern toasts and sentiments.#
+The Humming bird; or, New American songster; with modern toasts and sentiments.
+
+##General Summary##
+
+**Links**
+
+[TCP catalogue](http://www.ota.ox.ac.uk/tcp/)  • 
+[HTML](http://tei.it.ox.ac.uk/tcp/Texts-HTML/free/N25/N25541.html)  • 
+[EPUB](http://tei.it.ox.ac.uk/tcp/Texts-EPUB/free/N25/N25541.epub)
+
+**Availability**
+
+This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+
+**Major revisions**
+
+1. __2008-05__ __TCP__ *Assigned for keying and markup*
+1. __2008-05__ __SPi Global (Manila)__ *Keyed and coded from Readex/Newsbank page images*
+1. __2008-07__ __Olivia Bottum__ *Sampled and proofread*
+1. __2008-07__ __Olivia Bottum__ *Text and markup reviewed and edited*
+1. __2008-09__ __pfs.__ *Batch review (QC) and XML conversion*
+
+##Content Summary##
+
+#####Front#####
+
+#####Body#####
+
+1. The Humming Bird.
+
+    _ CHARMING SUE.
+
+    _ MARY'S TRUE.
+
+    _ THE SEAMAN'S HOME.
+
+    _ FOR YOU, MY LOVELY GIRL.
+
+    _ THE CAN OF FLIP.
+
+    _ THE MIDSHIPMAN.
+
+    _ A STORY OF SORROW.
+
+    _ THE CAPTURED CREW.
+
+    _ BEN BLOCK.
+
+    _ THE SEA-WORN TAR.
+
+    _ THE DAUNTLESS SAILOR.
+
+    _ FAIR KATE OF PORTSMOUTH
+
+    _ POOR TOM, OR THE SAILOR'S EPITAPH.
+
+    _ THE LUCKY ESCAPE.
+
+    _ CHARMING NANCY.
+
+    _ THE CALEDONIAN MAID.
+
+    _ LET'S TIE THE KNOT MY SALLY.
+
+    _ SWEET LILIES OF THE VALLEY.
+
+    _ GIVE ME THE GIRL THAT'S KIND AND FREE.
+
+    _ LUBIN'S RURAL COT.
+
+    _ WHITHER MY LOVE.
+
+    _ PRIMROSES.
+
+    _ THE MAID OF BOSTON.
+
+    _ THE ROW.
+
+    _ THAT'S YOUR SORT.
+
+    _ I NEVER WILL BE MARRIED.
+
+    _ WHY MOURNS MY FAITHFUL LOVER.
+
+    _ ROW, DOW, DOW.
+
+    _ THE SWEET LITTLE GIRL THAT I LOVE.
+
+    _ MA BELLE COQUETTE.
+
+    _ THE VEIL.
+
+    _ TIPPY BOB.
+
+    _ LOVELY MARY.
+
+    _ A MAID I LOVE.
+
+    _ A GLASS IS GOOD.
+
+    _ THE LASSY OF MY HEART.
+
+    _ THE NEGRO BOY. Sold for a Metal Watch, by an African Prince.
+
+    _ WRETCHED HENRY.
+
+    _ RECEIPT FOR THE VAPOURS.
+
+    _ THE NUN'S COMPLAINT.
+
+    _ THE HAPPY SHEPHERDESS.
+
+    _ THE BARKING BARBER.
+
+    _ THE DRUMMER.
+
+    _ THE GIRL OF MY HEART.
+
+      * Sung in the Woodman.
+
+      * Sung by Mr. Baniſter.
+
+    _ THE WESTERN SKY.
+
+    _ FAIR MARIA OF THE DALE.
+
+    _ TOM TACLE, A much admired Song compoſed by Mr. Dibdin, in his entertainment of Caſtles in the Air.
+
+    _ 〈◊〉 LAVENDER GIRL.
+
+    _ ARISTIPPUS.
+
+    _ THANKSGIVING SONG.
+
+    _ IN PURSUIT OF THE FASHION.
+
+    _ FISHING.
+
+    _ MAKE MUCH OF TO-DAY.
+
+    _ THE NEGLECTED FAIR.
+
+    _ SWEET WILLY.
+
+    _ YOUNG DONALD.
+
+    _ RETURNING SPRING.
+
+    _ IN THE DEAD OF THE NIGHT.
+
+    _ DEAR IS MY LITTLE NATIVE VALE.
+
+    _ THE FOND FAIR.
+
+    _ THE GIRL IS BEWITCH'D.
+
+    _ THE LARK HAD PROCLAIM'D THE NEW DAY.
+
+    _ O, WE SHALL LIVE TOGETHER.
+
+    _ ADELAIS.
+
+    _ THE ROSARY.
+
+    _ I TREAD THE BORDERS.
+
+    _ THE WAVING WILLOW.
+
+    _ DEAR WANDERER.
+
+    _ OH, COME AWAY.
+
+    _ THE CHOICE.
+
+    _ HOW PLEAS'D WITHIN MY NATIVE BOW'RS.
+
+    _ CUPID'S BOW.
+
+    _ ELVIRA.
+
+    _ ABSENCE.
+
+    _ TUG AT THE OAR. Sung in the Purſe.
+
+    _ HOW SWEET WHEN THE SILVER MOON IS BLINKING.
+
+    _ THE TEAR.
+
+    _ THE STOLEN KISS.
+
+    _ THE KISS REPAID.
+
+    _ THE IMAGINARY KISS.
+
+    _ THE MEETING KISS.
+
+    _ THE RECONCILING KISS.
+
+    _ THE MUTUAL KISS.
+
+    _ CAROLINE OF LITCHFIELD.
+
+    _ THE PEASANT'S PETITION.
+
+    _ ABSENCE
+
+    _ THE EARTHEN JUG.
+
+    _ TOBY PHILPOT.
+
+    _ OLD AGNES. (Sequel to Toby Philpot.)
+
+    _ NANCY; Or the Sailor's Journal.
+
+    _ THE DRUM.
+
+    _ KNOWING JOE.
+
+    _ MODERN FASHIONS.
+
+    _ THE HOBBIES. Written and Sung by Mr. Williamſon.
+
+    _ MAJOR ANDRE'S SOLILOQUY.
+
+    _ 'Twas in Edinborough town I firſt met the Lad.
+
+    _ THE GIPSEY.
+
+    _ MY BONNY JOE IS GONE TO SEA.
+
+    _ THE TEMPEST.
+
+    _ LITTLE FARTHING RUSH LIGHT.
+
+    _ SHAKESPEARE'S SEVEN AGES PARAPHRASED.
+
+    _ FRESH AND STRONG.
+
+    _ THE MULBERRY TREE.
+
+    _ THE COLUMBIAN HERO.
+
+    _ We Soldiers Drink, We Soldiers Sing.
+
+    _ 'TIS NO FAULT OF MINE.
+
+    _ HITHER, MARY, HITHER COME.
+
+    _ POOR JACK.
+
+    _ WHILE HIGH THE FOAMING SURGES RISE.
+
+    _ COME CHEER UP MY LADS.
+
+    _ PATTERN OF CHIEFS. On the BIRTH of GEORGE WASHINGTON, Commander in Chie• of the American forces.
+
+    _ ADAMS AND LIBERTY. The Boſton Patriotic Song, Compoſed by Thomas Paine, A. M. Tune-"To Anacreon in Heaven."
+
+    _ RISE COLUMBIA. By the ſame.
+
+    _ TOUGH TIMES.
+
+    _ HARVARD PATRIOTIC ODE. Tune, "Rule Britannia."
+
+    _ GUARDIANS OF OUR NATION.
+
+    _ TOM TRIGGERS ADIEU.
+
+    _ VICAR AND MOSES.
+
+    _ WHAT A CHARMING FELLOW.
+
+    _ THE CROPS.
+
+    _ LESSON OF LOVE.
+
+    _ TYRANT CUSTOM.
+
+    _ TO THE LARK.
+
+    _ CUPID.
+
+    _ I'M WEARY OF GRANDEUR.
+
+    _ THE MAID OF THE MILL.
+
+    _ FROM NIGHT TILL MORN.
+
+    _ THE INDIAN CHIEF.
+
+    _ OF LOVE I MADE A JEST.
+
+    _ LOVE I'M FORBIDDEN TO NAME.
+
+    _ PHILLIS AND STREPHON.
+
+    _ THE ROSE TREE.
+
+    _ SWEET NIGHTINGALE.
+
+    _ SINCE EMMA CAUGHT MY ROVING EYE.
+
+    _ SHALL I, LIKE AN HERMIT, DWELL.
+
+    _ LITTLE LAD.
+
+    _ Duet—La Gloire and Madolon.
+
+    _ SIMILE.
+
+    _ HOOK OR BY CROOK.
+
+    _ COME MY SYLVIA.
+
+    _ BRIGHT PHOEBUS.
+
+    _ TALLY HO.
+
+    _ THE DUSKY NIGHT.
+
+    _ YE SPORTSMEN DRAW NEAR.
+
+    _ JOCKEY TO THE FAIR.
+
+    _ ELIZA.
+
+    _ UNION OF THE GODS. Tune—"To Anacreon in Heaven."
+
+    _ COLUMBIA'S BALD EAGLE.
+
+    _ THE GENIUS OF COLUMBIA.
+
+    _ ODE TO COLUMBIA'S FAVOURITE SON.
+
+    _ AMERICAN SPIRIT.
+
+    _ THE AMERICAN GRENADIER.
+
+    _ INDEPENDENCE.
+
+    _ ODE TO CHARITY. Compoſed by J. LATHRO•, jun. Eſq
+
+    _ PLATO.
+
+    _ WHEN FIRST TO HELEN'S LUTE.
+
+    _ LOVE.
+
+    _ POT OF BROWN ALE.
+
+    _ BACCHUS'S WINE CELLAR.
+
+    _ ON BRANDY AND BEER.
+
+    _ WOMEN AND WINE.
+
+    _ BETSEY BLOSSOM.
+
+    _ OH EVER IN MY BOSOM LIVE.
+
+    _ WHEN BIDDEN TO THE WAKE.
+
+    _ JEM OF ABERDEEN.
+
+    _ SOOTHING SLEEP.
+
+    _ On the birth of GEORGE WASHINGTON.
+
+    _ HAIL COLUMBIA. The Philadelphia Patriotic Song. Tune—Preſident's March.
+
+    _ THE FEDERAL CONSTITUTION BOYS, AND LIBERTY FOREVER. The New-York Patriotic Song. Tune—Waſhington's March, & Yankee Doodle.
+
+    _ AMERICAN UNION. Tune—"Rule Rritannia."
+
+    _ DEATH OR LIBERTY. Tune—Rule Britannia.
+
+    _ CHIEFTAINS OF COLUMBIA.
+
+    _ TO ARMS.
+
+    _ THE WAY TO AVOID WAR.
+
+    _ ALL FOR A SONG.
+
+#####Back#####
+
+1.  APPENDIX: CONTAINING THE MOST CELEBRATED MASONIC SONGS.
+
+    _ ORIGIN OF MASONRY.
+
+    _ ROYAL ARCH SONG.
+
+    _ [Tune, In Infancy, &c.]
+
+    _ Maybe ſung to the Tune, Rule Britannia.
+
+    _ [Tune, Sweet are the charms, &c.]
+
+    _ THE REVIVAL OF MASONRY.
+
+    _ [Tune—Rural Felicity.]
+KING Solomon that wiſe projector,In Maſonry took great delight:And Hiram, that great architector,Who
+    _ [Tune—Goddeſs of Eaſe.]
+'TIS Maſonry unites mankind,To generous actions forms the ſoul;So ſtrict in union we're combin'd,OneA MASON'S daughter fair and young,The pride of all the village throng,Thus to her lover ſaid;Tho' Da
+    _ [Tune—In Infancy.]
+
+    _ [Tune, Hearts of Oak]
+
+    _ [Tune—Belleiſle March]
+WAKE the lute and quiv'ring ſtrings,Myſtic truths Urania brings:Friendly viſitant, to theeWe owe theHAIL to the CRAFT! at whoſe ſerene command,The gentle ARTS in glad obedience ſtand:Hail, ſacred MASO"O WHAT a happy thing it is,Brethren to dwell in unity;"Whilſt every action's ſquar'd by this,The trHERE ſocial love ſerenely ſmiles,Soft harmony inſpires the breaſt,Muſic the weight of care beguiles,
+1. TOASTS & SENTIMENTS.
+
+1. MASONIC TOASTS.
+
+1. INDEX.
+
+**Types of content**
+
+  * There are 6596 **verse** lines!
+  * There are 15 **drama** parts! This is **verse drama**.
+  * Oh, Mr. Jourdain, there is **prose** in there!
+
+There are 320 **ommitted** fragments! 
+ @__reason__ (320) : illegible (317), missing (2), duplicate (1)  •  @__resp__ (317) : #PDCC (317)  •  @__extent__ (320) : 2 letters (1), 1 letter (288), 1 word (24), 1 span (4), 2 pages (1), 1 page (2)
+
+**Character listing**
+
+
+|Text|string(s)|codepoint(s)|
+|---|---|---|
+|Latin-1 Supplement|ç|231|
+|Latin Extended-A|ſ|383|
+|General Punctuation|•—…|8226 8212 8230|
+|Geometric Shapes|◊▪|9674 9642|
+|CJKSymbolsandPunctuation|〈〉|12296 12297|
+
+##Tag Usage Summary##
+
+###Header Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__availability__|1||
+|2.|__biblFull__|1||
+|3.|__change__|5||
+|4.|__date__|7| @__when__ (1) : 2009-04 (1)|
+|5.|__editorialDecl__|1||
+|6.|__extent__|2||
+|7.|__idno__|6| @__type__ (6) : DLPS (1), TCP (1), STC (1), NOTIS (1), IMAGE-SET (1), EVANS-CITATION (1)|
+|8.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|9.|__label__|5||
+|10.|__langUsage__|1||
+|11.|__language__|1| @__ident__ (1) : eng (1)|
+|12.|__listPrefixDef__|1||
+|13.|__note__|5||
+|14.|__notesStmt__|2||
+|15.|__p__|11||
+|16.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|17.|__projectDesc__|1||
+|18.|__pubPlace__|2||
+|19.|__publicationStmt__|2||
+|20.|__publisher__|2||
+|21.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|22.|__seriesStmt__|1||
+|23.|__sourceDesc__|1||
+|24.|__term__|1||
+|25.|__textClass__|1||
+|26.|__title__|3||
+|27.|__titleStmt__|2||
+
+
+###Text Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__abbr__|1||
+|2.|__desc__|320||
+|3.|__div__|201| @__type__ (201) : title_page (1), poems (1), poem (193), part (2), appendix (1), toasts (2), index (1)|
+|4.|__figure__|2||
+|5.|__g__|149| @__ref__ (149) : char:EOLhyphen (130), char:punc (18), char:EOLunhyphen (1)|
+|6.|__gap__|320| @__reason__ (320) : illegible (317), missing (2), duplicate (1)  •  @__resp__ (317) : #PDCC (317)  •  @__extent__ (320) : 2 letters (1), 1 letter (288), 1 word (24), 1 span (4), 2 pages (1), 1 page (2)|
+|7.|__head__|218| @__type__ (2) : sub (2)|
+|8.|__hi__|1132||
+|9.|__item__|237||
+|10.|__l__|6596||
+|11.|__lg__|946||
+|12.|__list__|21||
+|13.|__note__|1| @__n__ (1) : * (1)  •  @__place__ (1) : bottom (1)|
+|14.|__p__|130||
+|15.|__pb__|288| @__facs__ (288) : tcp:033913_0000_0FF9E6FF29088440 (1), tcp:033913_0001_0FF9E60E4F18EDE0 (1), tcp:033913_0002_0FF9E6194C57D9E0 (1), tcp:033913_0003_0FF9E62422B82F00 (1), tcp:033913_0004_0FF9C4316A04E1B8 (1), tcp:033913_0005_0FF9E62A634A12A8 (1), tcp:033913_0006_0FF9E62C51554180 (1), tcp:033913_0007_0FF9E63594EED748 (1), tcp:033913_0008_0FF9E63C9B5A4220 (1), tcp:033913_0009_0FF9E6461AD52018 (1), tcp:033913_0010_0FF9C4421FFC89A0 (1), tcp:033913_0011_0FF9E6556D7D8DB8 (1), tcp:033913_0012_0FF9E6626CF0F588 (1), tcp:033913_0013_0FF9E66EF0B43B30 (1), tcp:033913_0014_0FF9E67205C6A340 (1), tcp:033913_0015_0FF9E6880A032FC8 (1), tcp:033913_0016_0FF9E6901D90D900 (1), tcp:033913_0017_0FF9E6A078EBD2B8 (1), tcp:033913_0018_0FF9E6B0AA76D598 (1), tcp:033913_0019_0FF9E6B9054FC590 (1), tcp:033913_0020_0FF9E6C6BA212E08 (1), tcp:033913_0021_0FF9C455E612BFF8 (1), tcp:033913_0022_0FF9E6DC2D7CE9A8 (1), tcp:033913_0023_0FF9E6E9E79FEFA8 (1), tcp:033913_0024_0FF9E6F363A91EB0 (1), tcp:033913_0025_0FF9E604BB7344D0 (1), tcp:033913_0026_0FF9E70F493B3C48 (1), tcp:033913_0027_0FF9C45D5D997BF0 (1), tcp:033913_0028_0FF9E722CCFBA778 (1), tcp:033913_0029_0FF9E73059969D08 (1), tcp:033913_0030_0FF9E73C93250810 (1), tcp:033913_0031_0FF9E745650A7F88 (1), tcp:033913_0032_0FF9E75065480970 (1), tcp:033913_0033_0FF9E75CC72E4990 (1), tcp:033913_0034_0FF9E76A64F6FF58 (1), tcp:033913_0035_0FF9C4713AE52600 (1), tcp:033913_0036_0FF9E783E4127770 (1), tcp:033913_0037_0FF9E78E460D4160 (1), tcp:033913_0038_0FF9E79923FD4D78 (1), tcp:033913_0039_0FF9E7A3CEE625E0 (1), tcp:033913_0040_0FF9E7A92A4A1490 (1), tcp:033913_0041_0FF9E7B5D533C7B8 (1), tcp:033913_0042_0FF9E7C0A9BB8C48 (1), tcp:033913_0043_0FF9C48C6D07B5C0 (1), tcp:033913_0044_0FF9E7D4F6445968 (1), tcp:033913_0045_0FF9E7E3A576F528 (1), tcp:033913_0046_0FF9E7E9A8553DB8 (1), tcp:033913_0047_0FF9E7F8DC9ECC28 (1), tcp:033913_0048_0FF9E803988E7408 (1), tcp:033913_0049_0FF9E80F9BC19F10 (1), tcp:033913_0050_0FF9E81BC9759D98 (1), tcp:033913_0051_0FF9E825563B3920 (1), tcp:033913_0052_0FF9E8332E1C2360 (1), tcp:033913_0053_0FF9E83C16EBDBE0 (1), tcp:033913_0054_0FF9E8459C5B0498 (1), tcp:033913_0055_0FF9E852E326A070 (1), tcp:033913_0056_0FF9E85FB78B6410 (1), tcp:033913_0057_0FF9E870C5226078 (1), tcp:033913_0058_0FF9C5220B08BCD0 (1), tcp:033913_0059_0FF9E87EDC50DEF0 (1), tcp:033913_0060_0FF9E88972B1C880 (1), tcp:033913_0061_0FF9E89B9A7B4FE8 (1), tcp:033913_0062_0FF9E8A30CA58898 (1), tcp:033913_0063_0FF9E8AD68AE2770 (1), tcp:033913_0064_0FF9E8B653EA5F98 (1), tcp:033913_0065_0FF9C4D4F8CAB628 (1), tcp:033913_0066_0FF9E8C8B46ACAF0 (1), tcp:033913_0067_0FF9C4D9995F77D8 (1), tcp:033913_0068_0FF9E8E30E6D34F0 (1), tcp:033913_0069_0FF9E8EA2DD38970 (1), tcp:033913_0070_0FF9E8F8F05AAD68 (1), tcp:033913_0071_0FF9E90382D255F8 (1), tcp:033913_0072_0FF9E90F432753C8 (1), tcp:033913_0073_0FF9E9156B10CF90 (1), tcp:033913_0074_0FF9E92159CB4D50 (1), tcp:033913_0075_0FF9E92790B0C038 (1), tcp:033913_0076_0FF9C4F515946A00 (1), tcp:033913_0077_0FF9E939CE14FB00 (1), tcp:033913_0078_0FF9E943A33BD238 (1), tcp:033913_0079_0FF9E94AF420B230 (1), tcp:033913_0080_0FF9E956916BCEF0 (1), tcp:033913_0081_0FF9E9610025F6C0 (1), tcp:033913_0082_0FF9E968B10EC6E0 (1), tcp:033913_0083_0FF9E974864C1368 (1), tcp:033913_0084_0FF9E97A584DC958 (1), tcp:033913_0085_0FF9E97D45BB8F50 (1), tcp:033913_0086_0FF9E984B0C48328 (1), tcp:033913_0087_0FF9E98C0065FD60 (1), tcp:033913_0088_0FF9E98D87B01BF0 (1), tcp:033913_0089_0FF9E994DBA44758 (1), tcp:033913_0090_0FF9E99C7879A440 (1), tcp:033913_0091_0FF9E9A278689128 (1), tcp:033913_0092_0FF9C515485E8078 (1), tcp:033913_0093_0FF9E9AA31D0EE00 (1), tcp:033913_0094_0FF9E9B251C3B6D8 (1), tcp:033913_0095_0FF9E9B3D7848DB8 (1), tcp:033913_0096_0FF9E9BCD9708708 (1), tcp:033913_0097_0FF9E9C4376F0658 (1), tcp:033913_0098_0FF9E9C8CD4EB530 (1), tcp:033913_0099_0FF9C51EF9FE67B0 (1), tcp:033913_0100_0FF9EAA8D7DA8D58 (1), tcp:033913_0101_0FF9C56F5EE97B90 (1), tcp:033913_0102_0FF9EA040A56B2B0 (1), tcp:033913_0103_0FF9EA08E568A130 (1), tcp:033913_0104_0FF9EA107870C2D0 (1), tcp:033913_0105_0FF9EA1827DF7948 (1), tcp:033913_0106_0FF9EA1FA39D3BB8 (1), tcp:033913_0107_0FF9EA2BB248F878 (1), tcp:033913_0108_0FF9EA337B693A80 (1), tcp:033913_0109_0FF9EA368AA84580 (1), tcp:033913_0110_0FF9EA40E3D7C800 (1), tcp:033913_0111_0FF9EA4D553A1CD0 (1), tcp:033913_0112_0FF9EA53773E0F30 (1), tcp:033913_0113_0FF9EA5AC90D17C8 (1), tcp:033913_0114_0FF9EA618A590C40 (1), tcp:033913_0115_0FF9C58F2580B540 (1), tcp:033913_0116_0FF9EA6BC73761B0 (1), tcp:033913_0117_0FF9EA74B5728A78 (1), tcp:033913_0118_0FF9EA7ECB6F4EA0 (1), tcp:033913_0119_0FF9EA866A9B2678 (1), tcp:033913_0120_0FF9EA8F80F8B7E0 (1), tcp:033913_0121_0FF9EA9991ED9980 (1), tcp:033913_0122_0FF9EA9CF4989980 (1), tcp:033913_0123_0FF9EAA46287DFD0 (1), tcp:033913_0124_0FF9E9F784AC55B8 (1), tcp:033913_0125_0FF9EAABE713E030 (1), tcp:033913_0126_0FF9EAB6D781DA50 (1), tcp:033913_0127_0FF9EABCC2D3C140 (1), tcp:033913_0128_0FF9EAC136E519C0 (1), tcp:033913_0129_0FF9EACDE24F5728 (1), tcp:033913_0130_0FF9EAD6B8F74468 (1), tcp:033913_0131_0FF9EADE53422918 (1), tcp:033913_0132_0FF9EAE45D1A1A90 (1), tcp:033913_0133_0FF9EAECE412D148 (1), tcp:033913_0134_0FF9EAF74730BA90 (1), tcp:033913_0135_0FF9EAFD23C33278 (1), tcp:033913_0136_0FF9EB03B821CBF8 (1), tcp:033913_0137_0FF9EB099D18A390 (1), tcp:033913_0138_0FF9EB0FD9F47478 (1), tcp:033913_0139_0FF9EB1604EB0C68 (1), tcp:033913_0140_0FF9EB20F5B1F8C0 (1), tcp:033913_0141_0FF9EB28585C4078 (1), tcp:033913_0142_0FF9EB29DE4B5348 (1), tcp:033913_0143_0FF9EB2E35270288 (1), tcp:033913_0144_0FF9EB31621F1B80 (1), tcp:033913_0145_0FF9EB35B1969868 (1), tcp:033913_0146_0FF9EB38BB10D1B0 (1), tcp:033913_0147_0FF9EB3BE8FBA748 (1), tcp:033913_0148_0FF9EB3DA01D8AD8 (1), tcp:033913_0149_0FF9C5B7797EC000 (1), tcp:033913_0150_0FF9EB466FBB1DC0 (1), tcp:033913_0151_0FF9C5BD863D2330 (1), tcp:033913_0152_0FF9EB4BD6297640 (1), tcp:033913_0153_0FF9EB4EF6666C10 (1), tcp:033913_0154_0FF9EB51E51E1B10 (1), tcp:033913_0155_0FF9C5BF0C9081C8 (1), tcp:033913_0156_0FF9EB5984F89D10 (1), tcp:033913_0157_0FF9C5C21A5783D8 (1), tcp:033913_0158_0FF9EB5CAF15B600 (1), tcp:033913_0159_0FF9C5C54CD9FE48 (1), tcp:033913_0160_0FF9EB60224BDC88 (1), tcp:033913_0161_0FF9EB69239FEF20 (1), tcp:033913_0162_0FF9C5C9C2EC98A0 (1), tcp:033913_0163_0FF9EB6AC7DA50A0 (1), tcp:033913_0164_0FF9C5CB49263190 (1), tcp:033913_0165_0FF9EB7118A8F918 (1), tcp:033913_0166_0FF9C5D2B9367430 (1), tcp:033913_0167_0FF9EB78DFE98288 (1), tcp:033913_0168_0FF9EB7AAC139D78 (1), tcp:033913_0169_0FF9EB82032F9510 (1), tcp:033913_0170_0FF9C5D5C755C6F0 (1), tcp:033913_0171_0FF9EB8389B51F68 (1), tcp:033913_0172_0FF9C5D8AD737F80 (1), tcp:033913_0173_0FF9EB8AE2829840 (1), tcp:033913_0174_0FF9C5DBBA460B88 (1), tcp:033913_0175_0FF9EB90D4C6F458 (1), tcp:033913_0176_0FF9EB92949CF658 (1), tcp:033913_0177_0FF9C5DEC173A4A0 (1), tcp:033913_0178_0FF9EB9739355ED8 (1), tcp:033913_0179_0FF9C5E1AB859DE8 (1), tcp:033913_0180_0FFC20CA207EE0D0 (1), tcp:033913_0181_0FF9EB9D2DE6CB20 (1), tcp:033913_0182_0FF9EB9ECC23A698 (1), tcp:033913_0183_0FF9C5E4B95B8478 (1), tcp:033913_0184_0FF9EBA67608EA90 (1), tcp:033913_0185_0FF9EBA800448AE0 (1), tcp:033913_0186_0FF9EBA98FABF298 (1), tcp:033913_0187_0FF9EBB1575F13F8 (1), tcp:033913_0188_0FF9EBB5D4730FC8 (1), tcp:033913_0189_0FF9EBB796CA55D8 (1), tcp:033913_0190_0FF9EBB985B12B28 (1), tcp:033913_0191_0FF9C5F27833C970 (1), tcp:033913_0192_0FF9EBC2C5AE9ED0 (1), tcp:033913_0193_0FF9EBC481069A90 (1), tcp:033913_0194_0FF9EBC66C167FC0 (1), tcp:033913_0195_0FF9EBCC389EFEC0 (1), tcp:033913_0196_0FF9EBCF507B92F0 (1), tcp:033913_0197_0FF9EBD3E04AEC08 (1), tcp:033913_0198_0FF9C5FE6D007A30 (1), tcp:033913_0199_0FF9EDD053B1B3C8 (1), tcp:033913_0200_0FF9EC0C50C92268 (1), tcp:033913_0201_0FF9C6260419BE60 (1), tcp:033913_0202_0FF9EC1592E68040 (1), tcp:033913_0203_0FF9EC1A0CF4CD90 (1), tcp:033913_0204_0FF9EC21A4A01940 (1), tcp:033913_0205_0FF9C62A954680B0 (1), tcp:033913_0206_0FF9EC27ADE30648 (1), tcp:033913_0207_0FF9EC306221A3F0 (1), tcp:033913_0208_0FF9EC33B480A898 (1), tcp:033913_0209_0FF9EC396DF54DF8 (1), tcp:033913_0210_0FF9EC3E20A85A00 (1), tcp:033913_0211_0FF9EC42AEC914D0 (1), tcp:033913_0212_0FF9C65E2BFC6FE0 (1), tcp:033913_0213_0FF9C63843043780 (1), tcp:033913_0214_0FF9EC4BA056FDE0 (1), tcp:033913_0215_0FF9EC4E904C35F0 (1), tcp:033913_0216_0FF9EC55D7FFEFA8 (1), tcp:033913_0217_0FF9EC5E003730E8 (1), tcp:033913_0218_0FF9EC62A169F868 (1), tcp:033913_0219_0FF9C6430AD7DD18 (1), tcp:033913_0220_0FF9EC6DF58C4C38 (1), tcp:033913_0221_0FF9EC7109CEECE0 (1), tcp:033913_0222_0FF9EC784F30F250 (1), tcp:033913_0223_0FF9EC79D4CD2A30 (1), tcp:033913_0224_0FF9EC842D9BB090 (1), tcp:033913_0225_0FF9EC88F1F978E8 (1), tcp:033913_0226_0FF9EC907241EBC8 (1), tcp:033913_0227_0FF9C64C21D00568 (1), tcp:033913_0228_0FF9EC9AD7C44250 (1), tcp:033913_0229_0FF9ECA0CA74C200 (1), tcp:033913_0230_0FF9ECA820A12A28 (1), tcp:033913_0231_0FF9ECAB49BB5D10 (1), tcp:033913_0232_0FF9ECB49A1C47C8 (1), tcp:033913_0233_0FF9ECB931389600 (1), tcp:033913_0234_0FF9ECC075ACC0D0 (1), tcp:033913_0235_0FF9C65CA3C662E0 (1), tcp:033913_0236_0FF9ECCACE8DE808 (1), tcp:033913_0237_0FF9ECD254AE3850 (1), tcp:033913_0238_0FF9ECDB5CC259B8 (1), tcp:033913_0239_0FF9ECE391566290 (1), tcp:033913_0240_0FF9C6A59B466048 (1), tcp:033913_0241_0FF9ECE69549D440 (1), tcp:033913_0242_0FF9ECEAF12A74D0 (1), tcp:033913_0243_0FF9ECEDE544DCF0 (1), tcp:033913_0244_0FF9C668A9E1F068 (1), tcp:033913_0245_0FF9ECF237AC4608 (1), tcp:033913_0246_0FF9ECF3C32AE5D8 (1), tcp:033913_0247_0FF9ECF55398B170 (1), tcp:033913_0248_0FF9C66D1E6E0DE8 (1), tcp:033913_0249_0FF9ECFB156059E0 (1), tcp:033913_0250_0FF9ECFC9A737C00 (1), tcp:033913_0251_0FF9ECFE44623140 (1), tcp:033913_0252_0FF9C66EA4BA5030 (1), tcp:033913_0253_0FF9ED029B410148 (1), tcp:033913_0254_0FF9C67492EB3360 (1), tcp:033913_0255_0FF9ED0423A240E0 (1), tcp:033913_0256_0FF9ED09E68C1A60 (1), tcp:033913_0257_0FF9ED0B6C437F48 (1), tcp:033913_0258_0FF9ED0E5FE10A90 (1), tcp:033913_0259_0FF9ED0FE42B00B0 (1), tcp:033913_0260_0FF9ED15A4A1FDA0 (1), tcp:033913_0261_0FF9C679234FB410 (1), tcp:033913_0262_0FF9ED17522CFC10 (1), tcp:033913_0263_0FF9ED1A47BFD360 (1), tcp:033913_0264_0FF9ED1E9BE3B1B8 (1), tcp:033913_0265_0FF9C67AAB06F808 (1), tcp:033913_0266_0FF9ED201FE68CB8 (1), tcp:033913_0267_0FF9C67D9BC490F8 (1), tcp:033913_0268_0FF9ED21A5FF5F08 (1), tcp:033913_0269_0FF9C680A742DF70 (1), tcp:033913_0270_0FF9ED260BC59878 (1), tcp:033913_0271_0FF9ED2D8B92EBD0 (1), tcp:033913_0272_0FF9ED42E802DBE0 (1), tcp:033913_0273_0FF9ED5083CA2B48 (1), tcp:033913_0274_0FF9ED5E1CE6FCA0 (1), tcp:033913_0275_0FF9ED6B97F5C618 (1), tcp:033913_0276_0FF9ED7AA9D13B10 (1), tcp:033913_0277_0FF9ED8669A9B9C8 (1), tcp:033913_0278_0FF9ED8F83C33608 (1), tcp:033913_0279_0FF9EDA02E23C480 (1), tcp:033913_0280_0FF9EDB4F2A9C1D0 (1), tcp:033913_0281_0FF9EDC210C75190 (1), tcp:033913_0282_0FF9EDCA022E4210 (1), tcp:033913_0283_0FF9EC017A26BFD0 (1), tcp:033913_0284_0FF9EDD966DDAD30 (1), tcp:033913_0285_0FF9EDE56A531D10 (1), tcp:033913_0286_0FF9EDEC18629590 (1), tcp:033913_0287_0FF9EDF65ACC5230 (1)  •  @__rendition__ (1) : simple:additions (1)  •  @__n__ (277) : 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 49 (1), 50 (1), 51 (1), 52 (1), 53 (1), 54 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 68 (1), 69 (1), 70 (1), 71 (1), 72 (1), 73 (1), 74 (1), 75 (1), 76 (1), 77 (1), 78 (1), 79 (1), 80 (1), 81 (1), 82 (1), 83 (1), 84 (1), 85 (1), 86 (1), 87 (1), 88 (1), 89 (1), 90 (1), 91 (1), 92 (1), 93 (1), 94 (1), 95 (1), 96 (1), 97 (1), 98 (1), 99 (1), 100 (1), 101 (1), 102 (1), 103 (1), 104 (1), 105 (1), 106 (1), 107 (1), 108 (1), 109 (1), 110 (1), 111 (1), 112 (1), 113 (1), 114 (1), 115 (1), 116 (1), 117 (1), 118 (1), 119 (1), 120 (1), 121 (1), 122 (1), 123 (1), 124 (1), 125 (1), 126 (1), 127 (1), 128 (1), 129 (1), 130 (1), 131 (1), 132 (1), 133 (1), 134 (1), 135 (1), 136 (1), 137 (1), 138 (1), 139 (1), 140 (1), 141 (1), 142 (1), 143 (1), 144 (1), 145 (1), 146 (1), 147 (1), 148 (1), 149 (1), 150 (1), 151 (1), 152 (1), 153 (1), 154 (1), 155 (1), 156 (1), 157 (1), 158 (1), 159 (1), 160 (1), 161 (1), 162 (1), 163 (1), 164 (1), 165 (1), 166 (1), 167 (1), 168 (1), 169 (1), 170 (1), 171 (1), 172 (1), 173 (1), 174 (1), 175 (1), 176 (1), 177 (1), 178 (1), 179 (1), 180 (1), 181 (1), 182 (1), 183 (1), 184 (1), 185 (1), 186 (1), 189 (1), 190 (1), 191 (1), 192 (1), 193 (1), 194 (1), 195 (1), 196 (1), 197 (1), 198 (1), 199 (1), 200 (1), 201 (1), 202 (1), 203 (1), 204 (1), 205 (1), 206 (1), 207 (1), 208 (1), 209 (1), 210 (1), 211 (1), 212 (1), 213 (1), 214 (1), 215 (1), 216 (1), 217 (1), 218 (1), 219 (1), 220 (1), 221 (1), 222 (1), 223 (1), 224 (1), 225 (1), 226 (1), 227 (1), 228 (1), 229 (1), 230 (1), 231 (1), 232 (1), 233 (1), 234 (1), 235 (1), 236 (1), 237 (1), 238 (1), 239 (1), 240 (1), 242 (1), 243 (1), 244 (1), 245 (1), 246 (1), 247 (1), 254 (2), 249 (1), 250 (1), 251 (1), 252 (1), 253 (1), 255 (1), 256 (1), 257 (1), 258 (1), 259 (1), 260 (1), 261 (1), 262 (1), 263 (1), 264 (1), 265 (1), 266 (1), 268 (1), 269 (1), 270 (1), 271 (1), 272 (1), 273 (1), 274 (1), 275 (1), 276 (1), 278 (1), ii (1), iii (1), iv (1), v (1), vi (1), viii (1), ix (1)|
+|16.|__q__|3||
+|17.|__sp__|15||
+|18.|__speaker__|15||
+|19.|__stage__|3||
+|20.|__trailer__|1||
